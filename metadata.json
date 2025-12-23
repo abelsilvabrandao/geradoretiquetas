@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Etiquetas de Distribuição Pro",
+  "description": "Sistema completo para processamento de XMLs de NF-e, geração de etiquetas de distribuição com suporte a logotipos personalizados por emitente e painel de conferência.",
+  "requestFramePermissions": []
+}
